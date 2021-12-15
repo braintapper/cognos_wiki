@@ -1,4 +1,5 @@
-# cognos_wiki
-Repo for Cognos wiki
+# Cognos Wiki
 
-Click on the Wiki tab of this repo to see the wiki
+This is just some useful information from my experiences with Cognos.
+
+
